@@ -20,7 +20,7 @@ This is a rough draft HTML site used to show what a potential employer might wan
 ## Known Bugs
 
 * No content used in other HTML files. Just used to demonstrate site navigating through folders.
-* n/
+* n/a
 
 ## License
 
